@@ -1,5 +1,5 @@
 {
-  "name": "Home Assistant Public Folders",
-  "url": "https://github.com/wesleygrimes/HAPublicFolders",
+  "name": "Home Assistant Static File Server",
+  "url": "https://github.com/wesleygrimes/ha-static-file-server",
   "maintainer": "wesleygrimes"
 }
