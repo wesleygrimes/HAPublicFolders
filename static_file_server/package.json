@@ -1,0 +1,10 @@
+{
+  "name": "static_file_server",
+  "version": "1.0.0",
+  "description": "Static File Server",
+  "author": "wesleygrimes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
