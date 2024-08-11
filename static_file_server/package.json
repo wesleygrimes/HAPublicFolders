@@ -1,6 +1,6 @@
 {
   "name": "static_file_server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Static File Server",
   "author": "wesleygrimes",
   "main": "index.js",
